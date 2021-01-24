@@ -8,4 +8,4 @@ Työkaluvuokraamosta voi nimensä mukaan vuokrata työkaluja. Tässä työkaluvu
 - Ylläpitäjä voi lisätä työkaluja
 - Työkaluja voi etsiä hakutoiminnolla
 
-Ideana on toistaiseksi se, että vain ylläpitäjä, käytännössä minä, voi lisätä uusia työkaluja.
+Ideana on toistaiseksi se, että vain ylläpitäjä - käytännössä minä - voi lisätä uusia työkaluja.
